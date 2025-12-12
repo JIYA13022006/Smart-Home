@@ -27,7 +27,7 @@ public class SmartAppliance extends Appliance {
         if(thePercentSaving>=0 && thePercentSaving<1){
             percentageSaving = thePercentSaving;
         } else {
-            percentageSaving = 0;
+            percentageSaving=0;
         }
     }
     public void smartOn() {

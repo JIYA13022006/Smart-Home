@@ -116,4 +116,5 @@ public class PowerUsageSimulationSystem {
         }
         return string;
     }
+
 }

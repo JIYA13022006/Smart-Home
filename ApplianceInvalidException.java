@@ -9,5 +9,4 @@ public class ApplianceInvalidException extends Exception{
 	public String toString() {
 		return "ApplianceInvalidException";
 	}
-	
 }

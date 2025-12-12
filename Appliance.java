@@ -5,7 +5,6 @@ public class Appliance {
     private int wattsOn;
     private int applianceLocation;
     private boolean on;
-
     //Default Constructor
     public Appliance() throws ApplianceInvalidException {
         applianceLocation = counter;

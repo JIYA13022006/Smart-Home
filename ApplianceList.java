@@ -157,8 +157,7 @@ public class ApplianceList {
             return true;
         } else {
             return false;
-        }
-    }
+        }}
 
     //Accessor
     //getAppliance(int index)

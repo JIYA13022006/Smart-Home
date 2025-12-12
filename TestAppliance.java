@@ -28,6 +28,7 @@ public class TestAppliance {
 		SmartAppliance s1Copy = new SmartAppliance(s1);
 		s1Copy.setPercentSaving(.5);
 		System.out.println("ORIGINAL "+s1);
-		System.out.println("COPY "+s1Copy);
+		System.out.println("COPY  "+s1Copy);
 	}
+
 }

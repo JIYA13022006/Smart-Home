@@ -8,8 +8,7 @@ public class ApplianceListTest {
         System.out.println(one.isThere(10000003));
 
         ApplianceList two = new ApplianceList(17514,"appliancesBig.csv");
-        //System.out.println(two.toString());
-
+        
         ApplianceList three = new ApplianceList(5);
         System.out.println(three.toString());
         System.out.println(three.isEmpty());
@@ -21,4 +20,5 @@ public class ApplianceListTest {
 
         System.out.println(two.getAppliance(158));
     }
+
 }

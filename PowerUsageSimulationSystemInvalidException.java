@@ -7,6 +7,8 @@ public class PowerUsageSimulationSystemInvalidException extends Exception {
 	}
 	
 	public String toString() {
+		
 		return "PowerUsageSimulationSystemInvalidException";
 	}
+
 }

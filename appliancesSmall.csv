@@ -9,6 +9,7 @@
 10000001,Laptop,75,10,0.25,true,0.5
 10000001,Fan (Attic),500,0,0.1,true,0.25
 10000001,Television - 27 inch,125,5,0.167,false,0.0
+
 10000001,Oven,5000,5,0.01,false,0.0
 10000001,Television - 25 inch,123,5,0.167,false,0.0
 10000001,Refrigerator - 14 cu. ft.,226,0,1.0,true,0.25
@@ -1742,4 +1743,5 @@
 10000100,Television Plasma 42' - 50',375,5,0.167,false,0.0
 10000100,Lighting - 40 Watt,40,0,0.33,false,0.0
 10000100,Ceiling Fan with 3 - 60 Watt Bulbs,230,0,0.25,false,0.0
+
 10000100,Lighting - Comp Fluorescent - 18 Watt,18,0,0.33,false,0.0

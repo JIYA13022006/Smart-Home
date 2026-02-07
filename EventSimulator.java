@@ -8,6 +8,7 @@ public class EventSimulator {
 	
 		while (simulationLength<=0)	{
 			System.out.print("How many minutes long is the simulation? "); 
+			
 
 			while (!input.hasNextInt()) {
 				input.next();
@@ -49,3 +50,4 @@ public class EventSimulator {
 		return num;
 	}
 }
+

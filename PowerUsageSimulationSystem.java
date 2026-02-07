@@ -6,6 +6,7 @@ public class PowerUsageSimulationSystem {
     private int timeLength;
     private int interval;
     private int count;
+    
     private ApplianceList one;
     private ArrayList offLocation;
     private final int POWER_LIMIT = 50000;
@@ -118,3 +119,4 @@ public class PowerUsageSimulationSystem {
     }
 
 }
+
